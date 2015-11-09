@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-09T04:21:34.731Z'
-dateModified: '2015-11-09T04:21:21.420Z'
+datePublished: '2015-11-09T04:22:37.102Z'
+dateModified: '2015-11-09T04:22:34.649Z'
 title: Code 8 Technologies
 authors: []
 publisher:
