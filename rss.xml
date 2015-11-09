@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Anthony Reyes]]></title>
         <description><![CDATA[Anthony Reyes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anthony-profile/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 04:23:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 04:23:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anthony-profile/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Code 8 Technologies]]></title>
             <description><![CDATA[<h1>Code 8 Technologies</h1>]]></description>
-            <link>undefinedcode-8-technologies/index.html</link>
+            <link>https://thegrid.ai/anthony-profile/code-8-technologies/index.html</link>
             <guid isPermaLink="false">fe1fe478-8b4e-44ab-8d6b-a434798376cc</guid>
-            <pubDate>Mon, 09 Nov 2015 04:21:34 GMT</pubDate>
+            <pubDate>Mon, 09 Nov 2015 04:22:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
